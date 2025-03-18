@@ -1,0 +1,10 @@
+auth gaurds
+passport
+data types
+and validation 
+
+user roles
+only admin can update data and delete
+login using = email and passport
+email should be email valdation
+
